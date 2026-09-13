@@ -1,0 +1,4 @@
+{
+  "summary": "FastAPI application providing the CV Optimization endpoints, integrating with Anthropic's Claude API as described in the documentation.",
+  "updatedAt": "2026-09-13T02:20:35.657572100Z"
+}

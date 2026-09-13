@@ -1,0 +1,4 @@
+{
+  "summary": "Python script that mimics the Make/Zapier automation flow. It reads a mock form entry, calls the API, logs to a CSV sheet, and generates an HTML email output.",
+  "updatedAt": "2026-09-13T02:20:35.712560800Z"
+}
